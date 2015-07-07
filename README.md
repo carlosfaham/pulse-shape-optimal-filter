@@ -10,3 +10,5 @@ OptimalFilter.m will perform the optimal filter match from an idealized template
 It outputs the best time-delay and amplitude estimators for the template matching.
 
 Please look at the provided example.m for a working example and generated plot.
+
+![Optimal Filter Example](example.png)
